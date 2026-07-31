@@ -1,20 +1,53 @@
-# OrangeHRM Manual Testing
+# 🧪 OrangeHRM Manual Testing Project
 
-## Project Overview
-This repository contains manual testing documentation for the OrangeHRM Demo application.
+## 📖 Project Overview
 
-## Documents
-- Test Plan
-- Test Cases
-- Bug Report
-- Test Summary Report
-- Screenshots
+This repository contains the manual testing documentation for the OrangeHRM Demo application.
 
-## Tested Modules
-- Login
-- Dashboard
-- PIM
-- Leave
-- Recruitment
-- My Info
-- Logout
+---
+
+## 🎯 Project Objective
+
+Verify that the main features of the OrangeHRM application work correctly through manual testing.
+
+---
+
+## 📂 Project Documents
+
+- 📄 Test Plan
+- 📋 Test Cases
+- 🐞 Bug Report
+- 📊 Test Summary Report
+- 📸 Screenshots
+
+---
+
+## ✅ Tested Modules
+
+- 🔐 Login
+- 🏠 Dashboard
+- 👥 PIM
+- 🗓️ Leave
+- 💼 Recruitment
+- 👤 My Info
+- 🚪 Logout
+
+---
+
+## 🛠️ Testing Environment
+
+- 💻 Operating System: Windows 11
+- 🌐 Browser: Google Chrome
+- 🧪 Testing Type: Manual Testing
+
+---
+
+## 📸 Screenshots
+
+Screenshots will be added during testing.
+
+---
+
+## 👩‍💻 Tester
+
+**Ohoud Algeidy**
