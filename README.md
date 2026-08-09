@@ -39,12 +39,6 @@ Verify that the main features of the OrangeHRM application work correctly throug
 
 ---
 
-## 📸 Screenshots
-
-Screenshots will be added during testing.
-
----
-
 ## 👩‍💻 Tester
 
 **Ohoud Algeidy**
