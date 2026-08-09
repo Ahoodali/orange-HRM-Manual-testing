@@ -27,9 +27,6 @@ Verify that the main features of the OrangeHRM application work correctly throug
 - 🔐 Login
 - 🏠 Dashboard
 - 👥 PIM
-- 🗓️ Leave
-- 💼 Recruitment
-- 👤 My Info
 - 🚪 Logout
 
 ---
